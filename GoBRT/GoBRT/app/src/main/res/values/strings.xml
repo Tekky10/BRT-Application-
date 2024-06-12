@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Go BRT</string>
+    <string name="welcome_screen">Go BRT</string>
+    <string name="logo">This is a logo</string>
+    <string name="welcome_do_you_have_what_it_takes">Welcome! Do you have what it takes?</string>
+    <string name="let_s_find_out">Let\'s find out</string>
+</resources>
